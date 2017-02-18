@@ -1,6 +1,6 @@
 # Text-Editor
 
-(Resembles a Text Editor using a Linked List)
+(Resembles a Basic Text Editor using a Linked List)
 
 
 usage:
